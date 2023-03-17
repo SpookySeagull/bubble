@@ -1,3 +1,6 @@
+// This is my first GitHub commithion
+// It is just a bubble sort writed from memory from 2014 when I was in college
+// In this itherathion I added i fancy visualization of sorting process
 package main
 
 import (
