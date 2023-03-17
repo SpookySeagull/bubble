@@ -1,6 +1,6 @@
 // This is my first GitHub commithion
 // It is just a bubble sort writed from memory from 2014 when I was in college
-// In this itherathion I added i fancy visualization of sorting process
+// In this itherathion I added a fancy visualization of sorting process
 package main
 
 import (
@@ -38,6 +38,7 @@ func main() {
 		array[i] = rand.Intn(10)
 		// PC nowadays so fast so I need to add Sleep
 		// Just to avoid duplicate numbers in a row
+		// Feel free to add this to cursed programming compilation
 		time.Sleep(time.Second / 10)
 	}
 	fmt.Println(array)
